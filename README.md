@@ -1,5 +1,5 @@
 # Unity3DTapController
-A tap controller for Unity3D for mobile devices
+A tap controller for Unity3D for mobile devices (iOS and Android).
 
 ## Installation    
 Just drop the file into your project and attach it to a game object.
